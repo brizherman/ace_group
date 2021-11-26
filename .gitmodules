@@ -4,3 +4,6 @@
 [submodule "label-ace-group"]
 	path = label-ace-group
 	url = git@github.com:xmarts/label-ace-group.git
+[submodule "ga-package-import"]
+	path = ga-package-import
+	url = git@github.com:xmarts/ga-package-import.git
