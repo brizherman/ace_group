@@ -7,3 +7,6 @@
 [submodule "ga-package-import"]
 	path = ga-package-import
 	url = git@github.com:xmarts/ga-package-import.git
+[submodule "product_label_for_ZP"]
+	path = product_label_for_ZP
+	url = git@github.com:xmarts/product_label_for_ZP.git
